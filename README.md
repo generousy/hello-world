@@ -1,4 +1,4 @@
 # hello-world
-learning about git
+learning and practicing
 
 beginning my adventures in programming, starting from java.
